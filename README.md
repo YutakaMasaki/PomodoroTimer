@@ -1,4 +1,4 @@
-# PomodoroTimer
+# PomodoroTimer with task recorder
 タスクの記録機能を備えた、ポモドーロ・テクニックに基づくタイマーです。
 　※MacOS、Linux環境での動作確認はしていません。
 

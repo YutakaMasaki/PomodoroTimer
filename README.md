@@ -11,3 +11,6 @@
 　◆MMM_PomoTimer.pyファイルを実行してください。"MMM_PomoTimer.py"ファイルが、"main.py"の役割です。
  
 　◆標準ライブラリ以外に、tkinter、pandas、matplotlibを使用しています。実行環境に左記のライブラリをインストールしてください。
+
+設計資料：
+　"Pomodoro.drawio" が簡易的な設計資料です。WebアプリのDrawIOでご覧いただけます。
